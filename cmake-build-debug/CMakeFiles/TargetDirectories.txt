@@ -1,0 +1,3 @@
+C:/Users/palla/CLionProjects/izp_private/cmake-build-debug/CMakeFiles/izp_private.dir
+C:/Users/palla/CLionProjects/izp_private/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/palla/CLionProjects/izp_private/cmake-build-debug/CMakeFiles/rebuild_cache.dir
